@@ -1,10 +1,10 @@
 # How to install the project & dependencies locally
 
 ### 1. Clone the project locally
-### 2. Go to backend folder and type the following command
-        npm install
-
-### 3. Go to frontend folder and type the following command (frontend is not made)
+### 2. Install the npm dependencies
+ #### a. Go to backend folder and type the following command
+       npm install
+ #### b. Go to frontend folder and type the following command
        npm install
 
 # How to run the project
